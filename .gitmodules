@@ -1,0 +1,9 @@
+[submodule "ETHGlobal-hooks-foundry"]
+	path = ETHGlobal-hooks-foundry
+	url = https://github.com/SamuelMoor-Smith/ETHGlobal-hooks-foundry.git
+[submodule "pancake-swap-hooks"]
+	path = pancake-swap-hooks
+	url = https://github.com/SamuelMoor-Smith/pancake-swap-hooks.git
+[submodule "UniswapHooks"]
+	path = UniswapHooks
+	url = https://github.com/JustinRyukiRogers/UniswapHooks.git
